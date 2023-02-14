@@ -15,5 +15,5 @@ if(cor === "verde"){
         console.log("atençao");
     }
 else{
-    console.log("pare");
+    console.log("pare!");
 }
